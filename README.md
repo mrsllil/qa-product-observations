@@ -25,6 +25,7 @@ Where relevant, I also include reproduction steps, screenshots, and acceptance c
 
 | Application | Observation | Type | Status |
 |---|---|---|---|
+| InPost | [Incorrect compartment location displayed (right instead of left)](https://github.com/mrsllil/qa-product-observations/issues/3) | Bug | Documented in personal repository |
 | MEVO | [Bike ID is not visible on the locking screen](https://github.com/mrsllil/qa-product-observations/issues/1) | Improvement | Documented in personal repository |
 | Netflix | [Subtitles are not displayed at the start of playback despite being enabled](https://github.com/Netflix/netflix.github.com/issues/217) | Bug | Submitted externally |
 | Education form (praca.gov.pl) | [Multiple identical school names make it difficult to select the correct institution](https://github.com/mrsllil/qa-product-observations/issues/2) | Improvement | Documented in personal repository |
