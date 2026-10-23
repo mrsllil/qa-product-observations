@@ -27,10 +27,8 @@ Where relevant, I also include reproduction steps, screenshots, and acceptance c
 |---|---|---|---|
 | MEVO | [Bike ID is not visible on the locking screen](https://github.com/mrsllil/qa-product-observations/issues/1) | Improvement | Documented in personal repository |
 | Netflix | [Subtitles are not displayed at the start of playback despite being enabled](https://github.com/Netflix/netflix.github.com/issues/217) | Bug | Submitted externally |
-| Education form | Multiple identical school names make it difficult to select the correct institution | Improvement | Not reported |
+| Education form (praca.gov.pl) | [Multiple identical school names make it difficult to select the correct institution](https://github.com/mrsllil/qa-product-observations/issues/2) | Improvement | Documented in personal repository |
 
-
-I'll add links to individual issues as I document them.
 
 ## My approach
 
@@ -48,11 +46,11 @@ My goal is to describe each observation clearly and provide enough context to un
 
 ## A note about this repository
 
-These are independent observations based on my personal use of publicly available applications.
+*This repository contains my independent QA observations and improvement proposals based on personal experiences with publicly available applications.*
 
-They are not official bug reports, and I am not affiliated with the companies or development teams behind these products.
+*I am not employed by, affiliated with, or representing any of the companies or organizations mentioned. The issues documented here are part of my personal QA portfolio and should not be considered official bug reports.*
 
-Some issues may be specific to a particular device, application version, or environment. Where the exact cause is unknown, I avoid making assumptions.
+*All observations are based on what I have personally experienced. Where the root cause or technical implementation is unknown, I avoid making assumptions and clearly distinguish observed behavior from potential explanations.*
 
 ## About me
 
