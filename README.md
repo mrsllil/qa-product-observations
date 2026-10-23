@@ -20,13 +20,15 @@ Each observation is documented as a GitHub Issue, with a focus on the problem, i
 
 Where relevant, I also include reproduction steps, screenshots, and acceptance criteria.
 
+
 ## Observations
 
-| Application | Observation | Type |
-|---|---|---|
-| MEVO | Bike ID is not visible on the locking screen | Improvement |
-| Netflix | Subtitles are not displayed at the start of playback despite being enabled | Bug |
-| Education form | Multiple identical school names make it difficult to select the correct institution | Improvement |
+| Application | Observation | Type | Status |
+|---|---|---|---|
+| MEVO | [Bike ID is not visible on the locking screen](https://github.com/mrsllil/qa-product-observations/issues/1) | Improvement | Documented in personal repository |
+| Netflix | [Subtitles are not displayed at the start of playback despite being enabled](https://github.com/Netflix/netflix.github.com/issues/217) | Bug | Submitted externally |
+| Education form | Multiple identical school names make it difficult to select the correct institution | Improvement | Not reported |
+
 
 I'll add links to individual issues as I document them.
 
